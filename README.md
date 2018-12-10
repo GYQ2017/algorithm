@@ -8,4 +8,8 @@
   - 详解：[002.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/002.md) 
 - 字符串替换
   - 题目描述：把字符串中的每个空格替换成“%20”
-  - 详解：[003.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/002.md) 
+  - 详解：[003.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/003.md) 
+
+- 打印链表
+  - 题目描述：从尾到头打印链表
+  - 详解：[004.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/004.md) 
