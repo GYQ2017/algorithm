@@ -15,4 +15,9 @@
 - 斐波那契数列
   - 题目描述：求第n项
   - 详解：[005.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/005.md) 
-- 
+- 旋转数组最小数字
+  - 题目描述：输入递增排序数组的旋转数组，查找最小元素
+  - 详解：[006.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/006.md) 
+- 矩阵中的路径
+  - 题目描述：设计一个函数，判断一个矩阵中是否存在一条包含某字符串所有字符的路径
+  - 详解：[007.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/007.md) 
