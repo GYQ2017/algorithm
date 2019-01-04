@@ -28,3 +28,12 @@
 - 剪绳子
   - 题目描述：一根长度为n的绳子，请把绳子剪成m段(m,n为整数，n>1,m>1)，每段绳子的长度记为k[0],k[1],...,k[m]。请问$k[0]*k[1]*,...,*k[m]$可能的最大乘积是多少？
   - 详解：[009.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/009.md) 
+
+- 求二进制中1的个数
+  - 题目描述：输入一个整数，输出该数二进制中1的个数
+  - 详解：[010.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/010.md) 
+
+- 数值的整数次方
+  - 题目描述：求base的exponent次方，不得使用库函数，也不需要考虑大数问题
+  - 详解：[011.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/011.md) 
+- 
