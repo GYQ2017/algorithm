@@ -38,7 +38,9 @@
   - 详解：[012.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/012.md) 
 - 删除链表节点
   - 详解：[013.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/013.md) 
-
 - 正则表达式匹配
   - 题目描述：请实现一个函数来匹配包含"."和"*"的正则表达式。模式中"."和"\*"分别表示为任意一个字符和前面的字符可出现任意次。例如，字符串“aaa”与模式“a.a”和"ab\*ac\*a"匹配，但与“aa.a”和"ab\*a"不匹配
   - 详解：[014.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/014.md) 
+- 表示数值的字符串
+  - 题目描述：请实现一个函数用来判断字符串是否表示数值。例如，字符串“+100”、“-1E-16”、“5e2”都表示数值，但“12e"、”12e+5.4“都不是
+  - 详解：[015.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/015.md) 
