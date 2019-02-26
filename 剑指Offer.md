@@ -46,7 +46,10 @@
 - 调整数组顺序使奇数位于偶数前面
   - 题目描述：输入一个整数数组，实现一个函数来调整该数组中数字的顺序，使得所有奇数位于数组的前面，所有偶数位于后面
   - 详解：[016.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/016.md) 
-
 - 顺时针打印矩阵
   - 题目描述：输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字
   - 详解：[017.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/017.md) 
+- 字符串的排列
+  - 题目描述：输入一个字符串，打印出该字符串中字符的所有排列。例如输入字符串abc,则打印出由字符a,b,c所能排列出来的所有字符串abc,acb,bac,bca,cab和cba
+  - 详解：[018.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/018.md) 
+
