@@ -52,4 +52,10 @@
 - 字符串的排列
   - 题目描述：输入一个字符串，打印出该字符串中字符的所有排列。例如输入字符串abc,则打印出由字符a,b,c所能排列出来的所有字符串abc,acb,bac,bca,cab和cba
   - 详解：[018.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/018.md) 
+- 数组中出现次数超过一半的数字
+  - 题目描述：数组中有一个数字出现的次数超过数组长度的一半，请找出这个数字。例如输入一个长度为9的数组{1,2,3,2,2,2,5,4,2}。由于数字2在数组中出现了5次，超过数组长度的一半，因此输出2。如果不存在则输出0
+  - 详解：[019.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/019.md) 
+- 最小的k个数
+  - 题目描述：输入n个整数，找出其中最小的K个数。例如输入4,5,1,6,2,7,3,8这8个数字，则最小的4个数字是1,2,3,4
+  - 详解：[020.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/020.md) 
 
