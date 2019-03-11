@@ -83,3 +83,16 @@
   - 题目描述：请从字符串中找出一个最长的不包含重复字符的字符串，计算该最长字符串的长度，假设字符串只包含'a'-'z'的字符
   - 详解：[027.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/027.md) 
 
+- 丑数
+  - 题目描述：我们把因子只包含2,3,5的数称为丑数。求从小到大的顺序的第n个丑数，习惯上我们把1当做第一个丑数
+  -  详解：[028.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/028.md) 
+
+- 第一次只出现一次的字符
+  - 题目描述：在一个字符串(0<=字符串长度<=10000，全部由字母组成)中找到第一个只出现一次的字符,并返回它的位置, 如果没有则返回 -1，比如“abacdd”，则输出1
+  -  详解：[029.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/029.md) 
+
+- 数组中的逆序对
+  - 题目描述：在数组中的两个数字，如果前面一个数字大于后面的数字，则这两个数字组成一个逆序对。输入一个数组,求出这个数组中的逆序对的总数P，比如[7,5,6,4],P=5
+  -  详解：[030md](https://github.com/GYQ2017/algorithm/blob/master/Notes/030.md) 
+
+s
