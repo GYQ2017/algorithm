@@ -70,29 +70,29 @@
 - 把数组排成最小的数
   - 题目描述：输入一个正整数数组，把数组里所有数字拼接起来排成一个数，打印能拼接出的所有数字中最小的一个。例如输入数组{3，32，321}，则打印出这三个数字能排成的最小数字为321323
   - 详解：[024.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/024.md) 
-
 - 把数字翻译成字符串
   - 题目描述：给定一个数字，我们按照如下规则把它翻译为字符串：0翻译成‘a’，1翻译成‘b’，……，11翻译成‘l’，……，25翻译成‘z’。一个数值可能翻译成多个字符串。例如：12258有5种不同的翻译，分别是“bccfi”、“bwfi”、“bczi”、“mcfi”、“mzi”。请编程实现一个函数，用来计算一个数字有多少种不同的翻译方法
   - 详解：[025.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/025.md) 
-
 - 礼物的最大价值
   - 题目描述：在一个m*n的棋盘的每一格都放有礼物，每个礼物都有价值，每次只能向左或向下移动一格，直到棋盘右下角。请计算最多可拿到多少礼物
   - 详解：[026.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/026.md) 
-
 - 最长不含重复字符的子字符串
   - 题目描述：请从字符串中找出一个最长的不包含重复字符的字符串，计算该最长字符串的长度，假设字符串只包含'a'-'z'的字符
   - 详解：[027.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/027.md) 
-
 - 丑数
   - 题目描述：我们把因子只包含2,3,5的数称为丑数。求从小到大的顺序的第n个丑数，习惯上我们把1当做第一个丑数
   -  详解：[028.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/028.md) 
-
 - 第一次只出现一次的字符
   - 题目描述：在一个字符串(0<=字符串长度<=10000，全部由字母组成)中找到第一个只出现一次的字符,并返回它的位置, 如果没有则返回 -1，比如“abacdd”，则输出1
   -  详解：[029.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/029.md) 
-
 - 数组中的逆序对
   - 题目描述：在数组中的两个数字，如果前面一个数字大于后面的数字，则这两个数字组成一个逆序对。输入一个数组,求出这个数组中的逆序对的总数P，比如[7,5,6,4],P=5
-  -  详解：[030md](https://github.com/GYQ2017/algorithm/blob/master/Notes/030.md) 
+  -  详解：[030.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/030.md) 
+- 两个链表的第一个公共子节点
+  - 题目描述：输入两个链表，找出它们的第一个公共结点
+  - 详解：[031.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/031.md) 
+- 数字在排序数组中出现的次数
+  - 题目描述：统计一个数字在排序数组中出现的次数
+  - 详解：[032.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/032.md) 
 
-s
+- 
