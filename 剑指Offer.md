@@ -119,3 +119,18 @@
   - 题目描述：把n个骰子仍在地上，所有骰子朝上一面的点数之和为s
   - 详解：[038.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/038.md) 
 
+- 圆圈中最后剩下的数字
+  - 题目描述：n个数字排成一个圆圈，从数字0开始，每次从圆圈里删除第m个数字。求最后剩下的数字
+  - 详解：[039.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/039.md) 
+- 股票的最大利润
+  - 
+  题目描述：把股票的价格按时间先后顺序存储在数组中，请问买卖该股票一次可获得的最大利润是多少？比如[9,11,8,5,7,12,16,14]，最大利润为在5时买入，16时卖出，为11
+  - 详解：[040.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/040.md) 
+
+- 求1+2+...+n
+  - 题目描述：求1+2+3+...+n，要求不能使用乘除法、for、while、if、else、switch、case等关键字及条件判断语句
+  - 详解：[041.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/041.md) 
+
+- 不用加减乘除做加法
+  - 题目描述：写一个函数，求两个整数之和，要求在函数体内不得使用+、-、*、/四则运算符号
+  - 详解：[042.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/042.md) 
