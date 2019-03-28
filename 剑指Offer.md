@@ -132,7 +132,9 @@
 - 字符串转换整数
   - 题目描述：将一个字符串转换成一个整数，但是string不符合数字要求时返回0，要求不能使用字符串转换整数的库函数。 数值为0或者字符串不是一个合法的数值则返回0
   - 详解：[043.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/043.md) 
-
 - 矩形覆盖
   - 题目描述：我们可以用2\*1的小矩形横着或者竖着去覆盖更大的矩形。请问用n个2\*1的小矩形无重叠地覆盖一个2*n的大矩形，总共有多少种方法？
   - 详解：[044.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/044.md) 
+- 用两个栈实现队列
+  - 题目描述：用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型
+  - 详解：[045.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/045.md) 
