@@ -150,7 +150,16 @@
 - 包含min函数的栈
   - 题目描述：定义栈的数据结构，请在该类型中实现一个能够得到栈中所含最小元素的min函数(时间复杂度应为O(1))
   - 详解：[046.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/046.md)
-
 - 数据流中的中位数
   - 题目描述：如果从数据流中读出奇数个数值，那么中位数就是所有数值排序之后位于中间的数值。如果从数据流中读出偶数个数值，那么中位数就是所有数值排序之后中间两个数的平均值。我们使用Insert()方法读取数据流，使用GetMedian()方法获取当前读取数据的中位数
-  - 详解：[047.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/047.md)
+  - 详解：[047.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/047.md) 
+- 序列化二叉树
+  - 题目描述：请实现两个函数，分别用来序列化和反序列化二叉树
+  - 详解：[048.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/048.md) 
+
+- 把二叉树打印成多行  之字形打印二叉树   对称的二叉树
+  - 题目描述：从上到下按层打印二叉树，同一层结点从左至右输出。每一层输出一行
+  - 题目描述：从上到下按层打印二叉树，同一层结点从左至右输出。每一层输出一行
+  - 题目描述：请实现一个函数，用来判断一颗二叉树是不是对称的。注意，如果一个二叉树同此二叉树的镜像是同样的，定义其为对称的
+  - 详解：[049.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/049.md) 
+
