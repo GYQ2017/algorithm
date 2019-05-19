@@ -36,7 +36,6 @@
 - 反转字符串(题号344)
   - 题目描述：将输入的字符串反转过来，不要给另外的数组分配额外的空间，你必须**原地修改输入数组**、使用 O(1) 的额外空间解决这一问题
   - 详解: [012.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/012.md) 
-
 - 字符串中的第一个唯一字符(题号387)
   - 题目描述：给定一个字符串，找到它的第一个不重复的字符，并返回它的索引。如果不存在，则返回 -1
   - 详解: [013.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/013.md) 
@@ -47,8 +46,29 @@
   - 题目描述：给定一个二维网格和一个单词，找出该单词是否存在于网格中。单词必须按照字母顺序，通过相邻的单元格内的字母构成，其中“相邻”单元格是那些水平相邻或垂直相邻的单元格。同一个单元格内的字母不允许被重复使用
   - 题目描述：给定一个二维网格 **board** 和一个字典中的单词列表 **words**，找出所有同时在二维网格和字典中出现的单词。单词必须按照字母顺序，通过相邻的单元格内的字母构成，其中“相邻”单元格是那些水平相邻或垂直相邻的单元格。同一个单元格内的字母在一个单词中不允许被重复使用
   - 详解: [015.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/015.md) 
-
 - 实现前缀树`Trie`(题号208) 常用于统计词频、推荐等操作
   - 题目描述：实现一个前缀树`Trie`，包含 `insert`, `search`, 和 `startsWith` 这三个操作
   - 详解: [016.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/016.md) 
+- 旋转数组(题号189)
+  - 题目描述:  给定一个数组，将数组中的元素向右移动 *k* 个位置，其中 *k* 是非负数
+  - 详解: [017.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/017.md) 
+- 乘积最大子序列(题号152)
+  - 题目描述:  给定一个整数数组 `nums` ，找出一个序列中乘积最大的连续子序列 (该序列至少包含一个数)
+  - 详解: [018.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/018.md) 
+- 存在重复元素(题号217)
+  - 题目描述:  给定一个整数数组，判断是否存在重复元素。如果任何值在数组中出现至少两次，函数返回 true。如果数组中每个元素都不相同，则返回 false
+  - 详解: [019.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/019.md) 
+- 移动零(题号283)
+  - 题目描述:  给定一个数组 `nums`，编写一个函数将所有 `0` 移动到数组的末尾，同时保持非零元素的相对顺序
+  - 详解: [020.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/020.md) 
+- 两个数组的交集(题号349)    两个数组的交集 II(题号350)
+  - 题目描述:  给定两个数组，编写一个函数来计算它们的交集
+  - 题目描述:  给定两个数组，编写一个函数来计算它们的交集，输出结果中每个元素出现的次数，应与元素在两个数组中出现的次数一致
+  - 详解: [021.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/021.md) 
+- 递增的三元子序列(题号334)
+  - 题目描述:  给定一个未排序的数组，判断这个数组中是否存在长度为 3 的递增子序列(确定是否连续，询问面试官)
+  - 详解: [022.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/022.md) 
 
+- 除自身以外数组的乘积(题号238)
+  - 题目描述:  给定长度为 n 的整数数组 `nums`，其中 n > 1，返回输出数组 `output` ，其中 `output[i]` 等于 `nums` 中除 `nums[i]` 之外其余各元素的乘积
+  - 详解: [023.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/023.md) 
