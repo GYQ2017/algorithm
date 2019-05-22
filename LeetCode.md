@@ -68,7 +68,18 @@
 - 递增的三元子序列(题号334)
   - 题目描述:  给定一个未排序的数组，判断这个数组中是否存在长度为 3 的递增子序列(确定是否连续，询问面试官)
   - 详解: [022.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/022.md) 
-
 - 除自身以外数组的乘积(题号238)
   - 题目描述:  给定长度为 n 的整数数组 `nums`，其中 n > 1，返回输出数组 `output` ，其中 `output[i]` 等于 `nums` 中除 `nums[i]` 之外其余各元素的乘积
   - 详解: [023.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/023.md) 
+- 最大数(题号179)
+  - 题目描述:  给定一组非负整数，重新排列它们的顺序使之组成一个最大的整数
+  - 详解: [024.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/024.md) 
+
+- 寻找重复数(题号287)
+  - 题目描述: 给定一个包含 n + 1 个整数的数组 `nums`，其数字都在 1 到 n 之间（包括 1 和 n），可知至少存在一个重复的整数。假设只有一个重复的整数，找出这个重复的数
+  - 详解: [025.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/025.md) 
+
+- 计算右侧小于当前元素的个数
+  - 题目描述: 给定一个整数数组 nums，按要求返回一个新数组 counts。数组 counts 有该性质： `counts[i]` 的值是  `nums[i]` 右侧小于 `nums[i]` 的元素的数量
+  - 详解: [026.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/026.md) 
+
