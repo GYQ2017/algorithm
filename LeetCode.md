@@ -79,7 +79,20 @@
   - 题目描述: 给定一个包含 n + 1 个整数的数组 `nums`，其数字都在 1 到 n 之间（包括 1 和 n），可知至少存在一个重复的整数。假设只有一个重复的整数，找出这个重复的数
   - 详解: [025.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/025.md) 
 
-- 计算右侧小于当前元素的个数
+- 计算右侧小于当前元素的个数(题号315)
   - 题目描述: 给定一个整数数组 nums，按要求返回一个新数组 counts。数组 counts 有该性质： `counts[i]` 的值是  `nums[i]` 右侧小于 `nums[i]` 的元素的数量
   - 详解: [026.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/026.md) 
 
+- 寻找峰值(题号162)
+  - 题目描述:  峰值元素是指其值大于左右相邻值的元素。给定一个输入数组 `nums`，其中 `nums[i] ≠ nums[i+1]`，找到峰值元素并返回其索引。数组可能包含多个峰值，在这种情况下，返回任何一个峰值所在位置即可。你可以假设 `nums[-1] = nums[n] = -∞` 
+  - 详解: [027.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/027.md) 
+
+- 摆动排序 II(题号324)
+  - 题目描述:  给定一个无序的数组 `nums`，将它重新排列成 `nums[0] < nums[1] > nums[2] < nums[3]...` 的顺序
+  - 详解: [028.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/028.md) 
+
+- 数组中第k个最大元素(题号215)
+
+  - 题目描述:  在未排序的数组中找到第 **k** 个最大的元素。请注意，你需要找的是数组排序后的第 k 个最大的元素，而不是第 k 个不同的元素
+
+  - 详解: [029.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/029.md) 
