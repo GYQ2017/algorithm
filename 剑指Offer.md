@@ -1,14 +1,14 @@
 # algorithm
-- 找出数组中重复的数字
+- 找出数组中重复的数字(类似 [Leetcode 287](https://leetcode-cn.com/problems/find-the-duplicate-number/) )
   - 题目描述：在一个长度为n的数组里的所有数字都在0~n-1的范围内，请找出数组中任意一个重复的数字
   - 详解：[001.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/001.md)
-- 二维数组中的查找
+- 二维数组中的查找(类似 [Leetcode 240](https://leetcode-cn.com/problems/search-a-2d-matrix-ii/) )
   - 题目描述：在二维数组中，每一行依次递增，每一列依次递增，输入一个整数，判断数组是否含有该数
   - 详解：[002.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/002.md) 
-- 字符串替换
+- 字符串替换(类似 [Leetcode 833](https://leetcode-cn.com/problems/find-and-replace-in-string/) )
   - 题目描述：把字符串中的每个空格替换成“%20”
   - 详解：[003.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/003.md) 
-- 打印链表  链表倒数第k个节点  反转链表  合并两个排序链表
+- 打印链表  链表倒数第k个节点  **反转链表**  合并两个排序链表
   - 题目描述：从尾到头打印链表
   - 题目描述：输入一个链表，输出该链表中倒数第k个结点
   - 题目描述：输入一个链表，反转链表后，输出新链表的表头
@@ -19,10 +19,10 @@
   - 题目描述：一只青蛙一次可以跳上1级台阶，也可以跳上2级。求该青蛙跳上一个n级的台阶总共有多少种跳法(先后次序不同算不同的结果)
   - 题目描述：一只青蛙一次可以跳上1级台阶，也可以跳上2级……它也可以跳上n级。求该青蛙跳上一个n级的台阶总共有多少种跳法
   - 详解：[005.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/005.md) 
-- 旋转数组最小数字
+- 旋转数组最小数字(类似 [Leetcode 153](https://leetcode-cn.com/problems/find-minimum-in-rotated-sorted-array/) )
   - 题目描述：输入递增排序数组的旋转数组，查找最小元素
   - 详解：[006.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/006.md) 
-- 矩阵中的路径
+- 矩阵中的路径(类似 [Leetcode 329](https://leetcode-cn.com/problems/longest-increasing-path-in-a-matrix/) )
   - 题目描述：设计一个函数，判断一个矩阵中是否存在一条包含某字符串所有字符的路径
   - 详解：[007.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/007.md) 
 - 机器人的运动范围
