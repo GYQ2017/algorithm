@@ -65,7 +65,7 @@
 - 最小的k个数
   - 题目描述：输入n个整数，找出其中最小的K个数。例如输入4,5,1,6,2,7,3,8这8个数字，则最小的4个数字是1,2,3,4
   - 详解：[020.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/020.md) 
-- 连续子数组的最大和 构建乘积数组
+- 连续子数组的最大和(类似 [Leetcode 523](https://leetcode-cn.com/problems/continuous-subarray-sum/) ) 构建乘积数组(类似 [Leetcode 238](https://leetcode-cn.com/problems/product-of-array-except-self/) )
   - 题目描述：输入一个整数数组，有正有负。求所有子数组的和的最大值。例如:{1，-2，3,10，-4，7，2，-5}，最大子数组为{3，10，-4,7,2}，和为18
   - 题目描述：给定一个数组A[0,1,...,n-1],请构建一个数组B[0,1,...,n-1],其中B中的元素B[i]=A[0]\*A[1]*...*A[i-1]\*A[i+1]*...\*A[n-1]。不能使用除法
   - 详解：[021.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/021.md) 
@@ -75,7 +75,7 @@
 - 数字序列中某一位的数字
   - 题目描述：数字以01234567891011....的格式序列化到一个字符序列中。在这个序列中，第5位(从0计数)是5，第13位是1，请写一个函数，求任意第n位对应的数字
   - 详解：[023.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/023.md) 
-- 把数组排成最小的数
+- 把数组排成最小的数(类似 [Leetcode 179](https://leetcode-cn.com/problems/largest-number/) )
   - 题目描述：输入一个正整数数组，把数组里所有数字拼接起来排成一个数，打印能拼接出的所有数字中最小的一个。例如输入数组{3，32，321}，则打印出这三个数字能排成的最小数字为321323
   - 详解：[024.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/024.md) 
 - 把数字翻译成字符串
