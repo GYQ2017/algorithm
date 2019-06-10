@@ -42,7 +42,7 @@
   - 详解：[012.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/012.md) 
 - 删除链表节点
   - 详解：[013.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/013.md) 
-- 正则表达式匹配
+- 正则表达式匹配(类似 [Leetcode 10](https://leetcode-cn.com/problems/regular-expression-matching/) )
   - 题目描述：请实现一个函数来匹配包含"."和"*"的正则表达式。模式中"."和"\*"分别表示为任意一个字符和前面的字符可出现任意次。例如，字符串“aaa”与模式“a.a”和"ab\*ac\*a"匹配，但与“aa.a”和"ab\*a"不匹配
   - 详解：[014.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/014.md) 
 - 表示数值的字符串
@@ -55,8 +55,8 @@
 - 顺时针打印矩阵
   - 题目描述：输入一个矩阵，按照从外向里以顺时针的顺序依次打印出每一个数字
   - 详解：[017.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/017.md) 
-- 字符串的排列   左旋转字符串
-  - 题目描述：输入一个字符串，打印出该字符串中字符的所有排列。例如输入字符串abc,则打印出由字符a,b,c所能排列出来的所有字符串abc,acb,bac,bca,cab和cba
+- 字符串的排列(类似 [Leetcode 567](https://leetcode-cn.com/problems/permutation-in-string/) )   左旋转字符串
+  - 题目描述：输入一个字符串，打印出该字符串中字符的所有排列。例如输入字符串abc,则打印出由字符a,b,c所能排列出来的所有字符串abc,acb,bac,bca,cab和cba 
   - 题目描述：对于一个给定的字符序列S，请你把其循环左移K位后的序列输出。例如，字符序列S=”abcXYZdef”,要求输出循环左移3位后的结果，即“XYZdefabc”
   - 详解：[018.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/018.md) 
 - 数组中出现次数超过一半的数字
