@@ -84,7 +84,7 @@
 - 礼物的最大价值
   - 题目描述：在一个m*n的棋盘的每一格都放有礼物，每个礼物都有价值，每次只能向左或向下移动一格，直到棋盘右下角。请计算最多可拿到多少礼物
   - 详解：[026.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/026.md) 
-- 最长不含重复字符的子字符串
+- 最长不含重复字符的子字符串(类似 [Leetcode 3](https://leetcode-cn.com/problems/longest-substring-without-repeating-characters/) )
   - 题目描述：请从字符串中找出一个最长的不包含重复字符的字符串，计算该最长字符串的长度，假设字符串只包含'a'-'z'的字符
   - 详解：[027.md](https://github.com/GYQ2017/algorithm/blob/master/Notes/027.md) 
 - 丑数
