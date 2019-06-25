@@ -146,19 +146,25 @@
 - 无重复字符的最长子串(题号3)
   - 题目描述:  给定一个字符串，请你找出其中不含有重复字符的 **最长子串** 的长度
   - 详解: [046.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/046.md) 
-
 - 寻找两个有序数组的中位数(题号4)
   - 题目描述:  给定两个大小为 m 和 n 的有序数组 `nums1` 和 `nums2`。请你找出这两个有序数组的中位数，并且要求算法的时间复杂度为 O(log(m + n))
   - 详解: [047.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/047.md) 
-
 - 最长回文字串(题号5)
   - 题目描述:  给定一个字符串 `s`，找到 `s` 中最长的回文子串
   - 详解: [048.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/048.md) 
-
 - 盛最多水的容器(题号11)  **双指针**
 
   - 题目描述:  给定 n 个非负整数$a_1,a_2,...,a_n$，在坐标内画 n 条垂直线，垂直线 i 的两个端点分别为$(i, a_i)$ 和$(i, 0)$。找出其中的两条线，使得它们与 x 轴共同构成的容器可以容纳最多的水
 
   - 详解: [049.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/049.md) 
+- 三数之和(题号15)  **双指针**
+  - 题目描述:  给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组
+  - 详解:  [050.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/050.md) 
 
-- 
+- 电话号码的字母组合(题号17)  **全排列**
+  - 题目描述:  给定一个仅包含数字 `2-9` 的字符串，返回所有它能表示的字母组合。给出数字到字母的映射如下(与电话按键相同)， 注意 1 不对应任何字母
+  - 详解:  [051.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/051.md) 
+
+- 删除链表倒数第N个节点(题号19)
+  - 题目描述:  给定一个链表，删除链表的倒数第 *n* 个节点，并且返回链表的头结点
+  - 详解:  [052.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/052.md) 
