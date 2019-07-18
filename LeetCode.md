@@ -160,29 +160,33 @@
 - 三数之和(题号15)  **双指针**
   - 题目描述:  给定一个包含 n 个整数的数组 nums，判断 nums 中是否存在三个元素 a，b，c ，使得 a + b + c = 0 ？找出所有满足条件且不重复的三元组
   - 详解:  [050.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/050.md) 
-
 - 电话号码的字母组合(题号17)  **全排列**
   - 题目描述:  给定一个仅包含数字 `2-9` 的字符串，返回所有它能表示的字母组合。给出数字到字母的映射如下(与电话按键相同)， 注意 1 不对应任何字母
   - 详解:  [051.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/051.md) 
-
 - 删除链表倒数第N个节点(题号19)
   - 题目描述:  给定一个链表，删除链表的倒数第 *n* 个节点，并且返回链表的头结点
   - 详解:  [052.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/052.md) 
-
 - 有效的括号(题号20)
   - 题目描述:  给定一个只包括 `'('`，`')'`，`'{'`，`'}'`，`'['`，`']'` 的字符串，判断字符串是否有效
   - 详解:  [053.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/053.md) 
-
 - 合并两个有序链表(题号21)    合并K个排序链表(题号23)  
   - 题目描述:  将两个有序链表合并为一个新的有序链表并返回。新链表是通过拼接给定的两个链表的所有节点组成的
   - 题目描述:  合并 *k* 个排序链表，返回合并后的排序链表
 - 详解:  [054.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/054.md) 
-  
 - 括号生成(题号22)  **动态规划**
   - 题目描述:  给出 *n* 代表生成括号的对数，请你写出一个函数，使其能够生成所有可能的并且**有效的**括号组合
   - 详解:  [055.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/055.md) 
-
 - 下一个排列(题号31)
   - 题目描述: 实现获取下一个排列的函数，算法需要将给定数字序列重新排列成字典序中下一个更大的排列。如果不存在下一个更大的排列，则将数字重新排列成最小的排列
   - 详解:  [056.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/056.md) 
-- 
+- 最长有效括号  **动态规划**
+  - 题目描述: 给定一个只包含 `'('` 和 `')'` 的字符串，找出最长的包含有效括号的子串的长度
+  - 详解:  [057.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/057.md) 
+
+- 搜索旋转排序数组
+  - 题目描述: 假设按照升序排序的数组在预先未知的某个点上进行了旋转，搜索一个给定的目标值，如果数组中存在这个目标值，则返回它的索引，否则返回 `-1`。算法时间复杂度必须是 *O*(log *n*) 级别
+  - 详解:  [058.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/058.md) 
+
+- 在排序数组中查找元素第一个和最后一个位置
+  - 题目描述: 给定一个按照升序排列的整数数组 `nums`，和一个目标值 `target`。找出给定目标值在数组中的开始位置和结束位置
+  - 详解:  [059.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/059.md) 
