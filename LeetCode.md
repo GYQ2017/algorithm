@@ -183,10 +183,26 @@
   - 题目描述: 给定一个只包含 `'('` 和 `')'` 的字符串，找出最长的包含有效括号的子串的长度
   - 详解:  [057.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/057.md) 
 
-- 搜索旋转排序数组
+- 搜索旋转排序数组  **二分法**
   - 题目描述: 假设按照升序排序的数组在预先未知的某个点上进行了旋转，搜索一个给定的目标值，如果数组中存在这个目标值，则返回它的索引，否则返回 `-1`。算法时间复杂度必须是 *O*(log *n*) 级别
   - 详解:  [058.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/058.md) 
 
 - 在排序数组中查找元素第一个和最后一个位置
   - 题目描述: 给定一个按照升序排列的整数数组 `nums`，和一个目标值 `target`。找出给定目标值在数组中的开始位置和结束位置
   - 详解:  [059.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/059.md) 
+
+- 组合总和  **回溯** 
+  - 题目描述: 给定一个**无重复元素**的数组 `candidates` 和一个目标数 `target` ，找出 `candidates` 中所有可以使数字和为 `target` 的组合
+  - 详解:  [060.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/060.md) 
+
+- 接雨水
+  - 题目描述: 给定 *n* 个非负整数表示每个宽度为 1 的柱子的高度图，计算按此排列的柱子，下雨之后能接多少雨水
+  - 详解:  [061.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/061.md) 
+
+- 全排列  **递归**
+  - 题目描述: 给定一个**没有重复**数字的序列，返回其所有可能的全排列
+  - 详解:  [062.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/062.md) 
+
+- 旋转图像  **画图分析**
+  - 题目描述: 给定一个 $n*n$ 的二维矩阵表示一个图像，将图像顺时针旋转 90 度
+  - 详解:  [063.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/063.md) 
