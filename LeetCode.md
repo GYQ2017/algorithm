@@ -182,27 +182,41 @@
 - 最长有效括号  **动态规划**
   - 题目描述: 给定一个只包含 `'('` 和 `')'` 的字符串，找出最长的包含有效括号的子串的长度
   - 详解:  [057.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/057.md) 
-
 - 搜索旋转排序数组  **二分法**
   - 题目描述: 假设按照升序排序的数组在预先未知的某个点上进行了旋转，搜索一个给定的目标值，如果数组中存在这个目标值，则返回它的索引，否则返回 `-1`。算法时间复杂度必须是 *O*(log *n*) 级别
   - 详解:  [058.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/058.md) 
-
 - 在排序数组中查找元素第一个和最后一个位置
   - 题目描述: 给定一个按照升序排列的整数数组 `nums`，和一个目标值 `target`。找出给定目标值在数组中的开始位置和结束位置
   - 详解:  [059.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/059.md) 
-
 - 组合总和  **回溯** 
   - 题目描述: 给定一个**无重复元素**的数组 `candidates` 和一个目标数 `target` ，找出 `candidates` 中所有可以使数字和为 `target` 的组合
   - 详解:  [060.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/060.md) 
-
 - 接雨水
   - 题目描述: 给定 *n* 个非负整数表示每个宽度为 1 的柱子的高度图，计算按此排列的柱子，下雨之后能接多少雨水
   - 详解:  [061.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/061.md) 
-
 - 全排列  **递归**
   - 题目描述: 给定一个**没有重复**数字的序列，返回其所有可能的全排列
   - 详解:  [062.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/062.md) 
-
 - 旋转图像  **画图分析**
   - 题目描述: 给定一个 $n*n$ 的二维矩阵表示一个图像，将图像顺时针旋转 90 度
   - 详解:  [063.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/063.md) 
+- 字母异位词分组  **字符计数**
+  - 题目描述: 给定一个字符串数组，将字母异位词组合在一起。字母异位词指字母相同，但排列不同的字符串
+  - 详解:  [064.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/064.md) 
+- 最大子序列和
+  - 题目描述: 给定一个整数数组 `nums` ，找到一个具有最大和的连续子数组(子数组最少包含一个元素)，返回其最大和
+  - 详解:  [065.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/065.md) 
+- 跳跃游戏
+  - 题目描述: 给定一个非负整数数组，你最初位于数组的第一个位置。数组中的每个元素代表你在该位置可以跳跃的最大长度，判断你是否能够到达最后一个位置
+  - 详解:  [066.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/066.md) 
+- 合并区别   **排序 举例理解**
+  - 题目描述: 给出一个区间的集合，请合并所有重叠的区间
+  - 详解:  [067.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/067.md) 
+
+- 不同路径   **动态规划**
+  - 题目描述: 一个机器人位于一个 m x n 网格的左上角(0,0)，机器人每次只能向下或者向右移动一步，机器人试图达到网格的右下角(m-1,n-1)，问总共有多少条不同的路径
+  - 详解:  [068.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/068.md) 
+
+- 最小路径和   **动态规划**
+  - 题目描述: 给定一个包含非负整数的 *m* x *n* 网格，请找出一条从左上角到右下角的路径，使得路径上的数字总和为最小
+  - 详解:  [069.md](https://github.com/GYQ2017/algorithm/blob/master/LC_File/069.md) 
